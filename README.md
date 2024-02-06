@@ -31,7 +31,6 @@
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /></a>
     <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40" /></a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-
     <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="swift" width="40" height="40" />
     <a href="https://adonisjs.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/13810373?s=200&v=4" alt="adonijs" width="40" height="40" />
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40" />
