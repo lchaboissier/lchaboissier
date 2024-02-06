@@ -30,12 +30,14 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /></a>
     <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40" /></a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /></a>
-    <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="webpack" width="40" height="40" />
-    <img src="https://avatars.githubusercontent.com/u/13810373?s=200&amp;v=4" alt="webpack" width="40" height="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png" alt="webpack" width="40" height="40" />
-    <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="webpack" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
+
+    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="swift" width="40" height="40" />
+    <a href="https://adonisjs.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/13810373?s=200&v=4" alt="adonijs" width="40" height="40" />
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40" />
+    <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40" />
+    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="bootstrap" width="40" height="40" />
+</a>
 </p>
 <p> </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lchaboissier&show_icons=true&locale=en&layout=compact&theme=transparent" alt="lchaboissier" align="left" /></p>
