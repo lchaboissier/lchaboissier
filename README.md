@@ -38,4 +38,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
 </p>
 <p> </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lchaboissier&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="lchaboissier" align="left" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lchaboissier&show_icons=true&locale=en&layout=compact&theme=transparent" alt="lchaboissier" align="left" /></p>
