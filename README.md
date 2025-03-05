@@ -7,7 +7,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
     </a>
     <a href="https://docs.deno.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Deno_Logo_2024.svg" alt="typescript" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Deno_Logo_2024.svg" alt="Deno" width="40" height="40" />
     </a>
 </h3>
 <h3 align="left">• 💻 The languages I've used:</h3>
@@ -36,7 +36,7 @@
     <a href="https://adonisjs.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/13810373?s=200&v=4" alt="adonijs" width="40" height="40" /></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40" /></a>
     <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" alt="insomnia" width="40" height="40" /></a>
-    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
+    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/webpack/media/90b54d02fa1cfc8aa864a8322202f74ac000f5d2/logo/icon.svg" alt="bootstrap" width="40" height="40" /></a>
 </a>
 </p>
 <p> </p>
