@@ -9,6 +9,7 @@
     <a href="https://docs.deno.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Deno_Logo_2024.svg" alt="Deno" width="40" height="40" />
     </a>
+    <a href="https://svelte.dev/docs" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/500px-Svelte_Logo.svg.png" alt="svelte" width="40" height="40" /></a>
 </h3>
 <h3 align="left">• 💻 The languages I've used:</h3>
 <p align="center">
